@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dwitikrishna232005@gmail.com**
 
-- ⚡ Fun fact **A single Full-stack developer**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
