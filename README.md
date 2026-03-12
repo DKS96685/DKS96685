@@ -1,15 +1,7 @@
 # ⚡ Hello World! I'm DKS96685 <img src="https://media.giphy.com/media/hvRJCLFzcyK6s/giphy.gif" width="25px">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ecc71&width=435&lines=Fullstack+Developer;ML+Enthusiast;B.Tech+CSE+Undergrad;Problem+Solver" alt="Typing SVG" />
-</p>
-
----
-
-### 🤝 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:your_email@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ecc71&width=435&lines=Fullstack+Developer;ML+Enthusiast;Cyber+Security+Enthusiast;B.Tech+CSE+Undergrad" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,6 +9,7 @@
 # 🚀 About Me
 * 🔭 I’m currently working on **"Personal project"**
 * 📚 I’m willing to learn **Machine Learning**
+* 🛡️ I'm a **Full stack developer**
 * 🎓 Currently pursuing **B.Tech in CSE**
 * 🇮🇳 Fullstack Developer from **India**
 
@@ -67,9 +60,6 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white)
 
 ---
-
-### 📝 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shadow_green)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DKS96685&color=green&style=flat-square&label=PROFILE+VIEWS" />
