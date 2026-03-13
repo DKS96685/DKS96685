@@ -16,9 +16,6 @@
 ---
 
 # 📈 Activity & Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DKS96685&theme=shadow_green&no-bg=true&margin-w=15" alt="Trophies" />
-</p>
 
 ### 📊 Commit Activity Graph
 <p align="center">
