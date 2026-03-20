@@ -1,4 +1,4 @@
-# ⚡ Hello World! I'm DKS96685 <img src="https://media.giphy.com/media/hvRJCLFzcyK6s/giphy.gif" width="25px">
+# ⚡ Hello I'm DKS <img src="https://media.giphy.com/media/hvRJCLFzcyK6s/giphy.gif" width="25px">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ecc71&width=435&lines=Fullstack+Developer;ML+Enthusiast;Cyber+Security+Enthusiast;B.Tech+CSE+Undergrad" alt="Typing SVG" />
